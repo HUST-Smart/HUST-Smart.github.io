@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 科研队伍
+categories: inMenu
 ---
 
 <div class="home">
@@ -8,7 +9,7 @@ title: 科研队伍
     <h2 class="page-heading">教职人员</h2>
     
     <ul class="post-list">
-        {% for member in site.staffs %}
+        {% for member in site.pages %}
             {% if member.categories contains "professor" %}
                 <li>
                     <h1>
@@ -26,7 +27,7 @@ title: 科研队伍
     <h2 class="page-heading">博士生</h2>
     
     <ul class="post-list">
-        {% for member in site.staffs %}
+        {% for member in site.pages %}
         {% if member.categories contains "phd_candidate" %}
         <li>
             <h1>
@@ -41,7 +42,7 @@ title: 科研队伍
     <h2 class="page-heading">硕士生</h2>
     
     <ul class="post-list">
-        {% for member in site.staffs %}
+        {% for member in site.pages %}
         {% if member.categories contains "postgraduate" %}
         <li>
             <h1>

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "测试中文文件名!"
+date:   2015-12-08 11:04:08
+categories: jekyll update
+---
+
+测试一下中文文件名是否能被识别
