@@ -8,6 +8,8 @@ categories: phd_candidate
 
 吴歆韵，博士生，师从吕志鹏教授。
 
+Email: xavier@hust.edu.cn
+
 ##研究领域
 1. 通信优化：流量工程优化(traffic engineering and grooming)、波长分配(wavelength assignment)、频率分配(frequency assignment)等。
 1. 经典NP难问题：最小连通支配集(MCDS)问题、网络设计优化(CMND)问题

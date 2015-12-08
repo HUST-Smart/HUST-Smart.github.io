@@ -7,18 +7,12 @@
 
 # Site settings
 title: 智慧计算与优化实验室
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   这里请填写实验室简介。可以在根目录下的  _config.yml 文件中修改。这里的内容会被搜索引擎索引。
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-
-collections:
-  staffs:
-    output: true
+url: "http://smart.hust.edu.cn" # the base hostname & protocol for your site
+github_username:  HUST-Smart
 
 # Build settings
 markdown: kramdown
