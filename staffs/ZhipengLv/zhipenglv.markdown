@@ -30,7 +30,7 @@ photo: "/staffs/ZhipengLv/zhipenglv.jpg"
 
 ###工业优化
 
-1. 通信优化：流量工程优化(traffic engineering and grooming)、多点传送路由（muliticast routing）、波长分配(wavelength assignment)、频率分配(frequency assignm等。
+1. 通信优化：流量工程优化(traffic engineering and grooming)、多点传送路由（muliticast routing）、波长分配(wavelength assignment)、频率分配(frequency assignment)等。
 
 1. 时刻表与排班调度：大学课程和考试时刻表调度、体育时刻表调度、交通(航空、铁路)时刻表调度、人力资源排班调度等。
 
