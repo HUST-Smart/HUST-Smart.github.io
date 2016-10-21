@@ -1,0 +1,140 @@
+#newslistsidebar {
+	width:182px;
+	height:450px;
+	background:#fff;
+	float:left;
+}
+#newslistsidebar h1{
+  text-indent:15px;
+	width:140px;
+	height:40px;
+	font-size:16px;
+	line-height:40px;
+	font-weight:normal;
+	margin-left:20px;
+
+	border-bottom:1px solid #CCC; 
+}
+
+#newslistsidebar h1 a{
+  color:#0066F8;
+  text-decoration:none;
+}
+#shownewssidebar h1{
+  text-indent:40px;
+	width:160px;
+	height:40px;
+	font-size:16px;
+	border-bottom:2px solid #CCC;
+	line-height:40px;
+	font-weight:normal;
+	margin-left:20px;
+}
+
+#shownewssidebar h1 a{
+  color:#CCC;
+  text-decoration:none;
+
+}
+
+#shownewssidebar h1 a:hover{
+  text-decoration:underline;
+
+}
+
+#shownewssidebar{
+  width:183px;
+	height:450px;
+	background:#fff;
+	float:left;
+}
+
+ .newsnav{
+  margin-top:8px;
+  width:180px;
+  height:400px;
+  border-right:1px solid #CCC;
+  
+}
+#newslistcontent {
+	width:778px;
+	height:450px;
+	background:#fff;
+	float:right;
+}
+#newslistcontent h1 {
+  width:400px;
+  font-weight:normal;
+	font-size:15px;
+	height:30px;
+	line-height:30px;
+	text-indent:20px;
+	margin-top:20px;
+	border-bottom:1px dashed #CCC;
+	margin-right:20px;
+	margin-left:20px;
+	
+}
+
+#shownewscontent {
+  width:700px;
+	background:#fff;
+	float:left;
+	margin-left:40px;
+
+}
+
+
+#shownewscontent h1{
+   font-weight:bold;
+   text-align:center;
+   height:40px;
+   font-size:18px;
+   line-height:40px;
+   margin-left:20px;
+   margin-top:20px;
+ 
+}
+
+#shownewscontent h2{
+   font-size:12px;
+   font-weight:normal;
+   width:500px
+   height:30xp;
+   line-height:30px;
+   text-align:center;
+  
+}
+#newlistscontent ul {
+    
+	margin-left:40px;
+	margin-top:20px;
+	line-height:180%;
+}
+#newslistcontent ul li {
+    margin-top:20px;
+	margin-left:20px;
+	padding-left:15px;
+	background:url(../images/ico.gif) no-repeat left center;
+}
+#newslistcontent ul li a {
+	text-decoration:none;
+	color:#06f;
+}
+#newslistcontent ul li a:hover {
+	color:#f60;
+	text-decoration:underline;
+}
+#newscontent p {
+	margin-top:30px;
+	text-align:center;
+}
+
+.divline{
+  width:700px;
+  border-bottom:1px dashed  #CCC;
+  margin-bottom:10px;
+}
+#shownewscontent_{
+	width:700px;
+}

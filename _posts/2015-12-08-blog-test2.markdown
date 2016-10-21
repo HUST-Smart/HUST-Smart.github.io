@@ -1,8 +1,0 @@
----
-layout: post
-title:  "仍然是测试"
-date:   2015-12-08 13:00:08 -0500
-categories: jekyll update
----
-
-很多很多测试
